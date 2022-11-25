@@ -1,2 +1,3 @@
-![Hangman](https://user-images.githubusercontent.com/86682502/203979949-8acfbb8e-c9d4-473e-bae6-20307b8b9649.png)
+![Calculator](https://user-images.githubusercontent.com/86682502/203980510-c91b8d60-b7fb-46ec-ba53-05c3741985d2.png)
+
 # Js-Hangman
